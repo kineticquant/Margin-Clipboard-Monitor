@@ -1,0 +1,9 @@
+C:\Users\55117\source\repos\Margin\bin\Debug\Margin.exe
+C:\Users\55117\source\repos\Margin\bin\Debug\Margin.pdb
+C:\Users\55117\source\repos\Margin\obj\Debug\Margin.csprojAssemblyReference.cache
+C:\Users\55117\source\repos\Margin\obj\Debug\Margin.Form1.resources
+C:\Users\55117\source\repos\Margin\obj\Debug\Margin.Properties.Resources.resources
+C:\Users\55117\source\repos\Margin\obj\Debug\Margin.csproj.GenerateResource.cache
+C:\Users\55117\source\repos\Margin\obj\Debug\Margin.csproj.CoreCompileInputs.cache
+C:\Users\55117\source\repos\Margin\obj\Debug\Margin.exe
+C:\Users\55117\source\repos\Margin\obj\Debug\Margin.pdb
